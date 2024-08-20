@@ -1,0 +1,14 @@
+// Cylindrical Lighthouse
+// const trimGeometry = new THREE.TorusGeometry(10, 1, 5, 8);
+// const trimMaterial = new THREE.MeshBasicMaterial({ color: "#e8edc4" });
+// const lighthouseTrim = new THREE.Mesh(trimGeometry, trimMaterial);
+// lighthouseTrim.rotateX(90);
+// lighthouseTrim.rotateZ(45);
+
+// const baseCylinderGeometry = new THREE.CylinderGeometry(7.5, 9, 15, 8);
+// const baseCylinderMaterial = new THREE.MeshBasicMaterial({ color: "#fdffee" });
+// const lighthouseBase = new THREE.Mesh(
+//   baseCylinderGeometry,
+//   baseCylinderMaterial
+// );
+// lighthouseBase.translateY(3.75);
